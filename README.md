@@ -151,31 +151,12 @@ The application uses a configuration file (`config.py`) for centralized settings
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - [LangChain](https://langchain.com/) for the AI framework
 - [OpenAI](https://openai.com/) for the language models
 - [Streamlit](https://streamlit.io/) for the web interface
-- [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api) for transcript extraction
 
-## 🔗 Related Projects
-
-- [Chat with PDF](https://github.com/Anil-matcha/ChatPDF)
-- [Chat with Website](https://github.com/Anil-matcha/Website-to-Chatbot)
-- [Chat with CSV](https://github.com/Anil-matcha/Chat-With-Excel)
-- [ChatGPT in Discord](https://github.com/Anil-matcha/DiscordGPT)
-
-## 📞 Support
-
-- **Demo**: https://heybot.thesamur.ai/
-- **Twitter**: [@matchaman11](https://twitter.com/matchaman11)
-- **YouTube**: [Anil Chandra Naidu Matcha](https://www.youtube.com/@AnilChandraNaiduMatcha)
-
----
-
-⭐ **Star this repo** to receive updates and show your support!
+--
 
